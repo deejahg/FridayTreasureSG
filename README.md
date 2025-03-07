@@ -12,3 +12,4 @@ Tell us one thing you enjoyed learning in this course. Edit this file and add yo
 
 ![Singapore](sg-pic.jpg)
 
+# Siti Haida: I enjoyed learning how to build websites and beautifying them.
